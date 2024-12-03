@@ -1,0 +1,464 @@
+,Unnamed: 0,year,Name,Abbr,Votes,Percent,Mandates
+0,0,1945,Sozialistische Partei Österreich,SPö,120,30.0,19
+1,1,1946,Österreichische Volksparte,ÖVP,1200,49.0,29
+2,2,['1949'],Österreichische Volkspartei,Ö.V.P.,1846581,44.03,77
+3,3,['1949'],Sozialistische Partei Österreichs,S.P.Ö.,1623524,38.71,67
+4,4,['1949'],Kommunistische Partei Österreichs u. Linkssozialisten (Linksblock),Linksblock,213066,5.08,5
+5,5,['1949'],Wahlpartei der Unabhängigen,W. d. U.,489273,11.7,16
+6,6,['1949'],Demokratische Union,D. U.,12059,0.29,-
+7,7,['1949'],Vierte Partei (Ergokraten),Vierte Partei,7134,0.17,-
+8,8,['1949'],Demokraticna fronta delovnegna ljudstva,D. F.,2088,0.05,-
+9,9,['1949'],Demokratische Partei Österreichs,D. P. Ö.,5,0.0,-
+10,10,['1949'],Wirtschaftspartei der Haus- und Grundbesitzer,Wirtschaftspartei d. H. u. G.,3,0.0,-
+11,11,['1949'],Österreichische Patriotische Union,Ö. P. U.,0,0.0,-
+12,12,['1953'],Bund der österreichischen Monarchisten, ,1210,0.03,-
+13,13,['1953'],Christlich-demokratische Partei (Krscanska demokratska stranka), ,3668,0.08,-
+14,14,['1953'],Christlichsoziale Partei und Parteifreie Persönlichkeiten, ,3029,0.07,-
+15,15,['1953'],Österreichische National-Republikaner und Parteilose, ,1054,0.02,-
+16,16,['1953'],Österreichische Patriotische Union,Ö. P. U.,26,0.0,-
+17,17,['1953'],Österreichische Volkspartei,ÖVP ,1781777,41.3, 74
+18,18,['1953'],Sozialistische Partei Österreichs,SPÖ ,1818517,42.1, 73
+19,19,['1953'],"Überparteiliche Einigung der Mitte, Wahlgemeinschaft parteiloser Persönlichkeiten", ,5809,0.13, -
+20,20,['1953'],Wahlgemeinschaft Österreichische Volksopposition ,VO,228159,5.3, 4
+21,21,['1953'],Wahlpartei der Unabhängigen ,WdU ,472866,10.9, 14
+22,22,['1953'],Wahlpartei Freie Demokraten, ,2573,0.06,-
+23,23,['1956'],Ergokratische Partei, ,231,0.0,-
+24,24,['1956'],Freie Arbeiterbewegung Österreichs, ,1812,0.04,-
+25,25,['1956'],Freiheitliche Partei Österreichs,FPÖ,283749,6.5,6
+26,26,['1956'],Kommunisten und Linkssozialisten,KuL,192438,4.4,3
+27,27,['1956'],Österreichische Mittelstandspartei, ,23,0.0,-
+28,28,['1956'],Österreichische Patriotische Union, ,83,0.0,-
+29,29,['1956'],Österreichische Volkspartei,ÖVP,1999986,46.0,82
+30,30,['1956'],"Parlamentarische Vertretung der Wahlverhinderten, Nichtwähler und ungültigen Stimmen in Österreich", ,7,0.0,-
+31,31,['1956'],Partei der Vernunft, ,284,0.0,-
+32,32,['1956'],Sozialistische Partei Österreichs,SPÖ,1873295,43.0,74
+33,33,['1959'],Österreichische Volkspartei,ÖVP,1928043,44.2,79
+34,34,['1959'],Sozialistische Partei Österreichs,SPÖ,1953935,44.8,78
+35,35,['1959'],Freiheitliche Partei Österreichs,FPÖ,336110,7.7,8
+36,36,['1959'],Kommunisten und Linkssozialisten,KLS,142578,3.3,-
+37,37,['1959'],Bund demokratischer Sozialisten,BDS,2190,0.1,-
+38,38,['1962'],Österreichische Volkspartei,ÖVP,2024501,45.4,81
+39,39,['1962'],Sozialistische Partei Österreichs,SPÖ,1960685,44.0,76
+40,40,['1962'],Freiheitliche Partei Österreichs,FPÖ,313895,7.0,8
+41,41,['1962'],Kommunisten und Linkssozialisten,KLS,135520,3.0,-
+42,42,['1962'],Europäische Föderalistische Partei Österreichs,EFP,21530,0.5,-
+43,43,['1966'],Österreichische Volkspartei,ÖVP,2191109,48.35,85
+44,44,['1966'],Sozialistische Partei Österreichs,SPÖ,1928985,42.56, 74
+45,45,['1966'],Freiheitliche Partei Österreichs,FPÖ,242570,5.35,6
+46,46,['1966'],"Demokratische Fortschrittliche Partei, DFP-Liste Franz Olah",DFP,148528,3.28,-
+47,47,['1966'],Kommunisten und Linkssozialisten,KLS,18636,0.41,-
+48,48,['1966'],Liberale Partei Österreichs,LPÖ,1571,0.04,-
+49,49,['1966'],Marxisten-Leninisten Österreichs,MLÖ,486,0.01,-
+50,50,['1970'],Österreichische Volkspartei,ÖVP,2078010,44.7,79
+51,51,['1970'],Sozialistische Partei Österreichs,SPÖ,2235905,48.4,81
+52,52,['1970'],Freiheitliche Partei Österreichs,FPÖ,254363,5.5,5
+53,53,['1970'],Kommunistische Partei Österreichs,KPÖ,46689,1.0,-
+54,54,['1970'],"Demokratische Fortschrittliche Partei, DFP-Liste Franz Olah",DFP,17405,0.4,-
+55,55,['1970'],Nationaldemokratische Partei,NDP,3484,0.07,-
+56,56,['1970'],"Adolf Glantschnig - Für Menschlichkeit, Recht und Freiheit in Österreich",MRF,237,0.0,-
+57,57,['1970'],Österreichische Volkspartei,ÖVP,2051012,44.7,78
+58,58,['1970'],Sozialistische Partei Österreichs,SPÖ,2221981,48.4,81
+59,59,['1970'],Freiheitliche Partei Österreichs,FPÖ,253425,5.5,6
+60,60,['1970'],Kommunistische Partei Österreichs,KPÖ,44750,1.0,-
+61,61,['1970'],"Demokratische Fortschrittliche Partei, DFP-Liste Franz Olah",DFP,14925,0.3,-
+62,62,['1970'],Nationaldemokratische Partei,NDP,2631,0.1,-
+63,63,['1970'],"Adolf Glantschnig - Für Menschlichkeit, Recht und Freiheit in Österreich",MRF,237,0.0,-
+64,64,['1971'],Sozialistische Partei Österreichs,SPÖ,2280168,50.0,93
+65,65,['1971'],Österreichische Volkspartei,ÖVP,1964713,43.1,80
+66,66,['1971'],Freiheitliche Partei Österreichs,FPÖ,248473,5.5,10
+67,67,['1971'],Kommunistische Partei Österreichs,KPÖ,61762,1.4,-
+68,68,['1971'],Offensiv links,OL,1874,0.0,-
+69,69,['1975'],Sozialistische Partei Österreichs,SPÖ,2326201,50.4,93
+70,70,['1975'],Österreichische Volkspartei,ÖVP,1981291,42.9,80
+71,71,['1975'],Freiheitliche Partei Österreichs,FPÖ,249444,5.4,10
+72,72,['1975'],Kommunistische Partei Österreichs,KPÖ,55032,1.2,-
+73,73,['1975'],Liste Steinacher Franz, ,440,0.0,-
+74,74,['1975'],Gruppe Revolutionäre Marxisten,GRM,1024,0.0,-
+75,75,['1979'],Sozialistische Partei Österreichs,SPÖ,2413226,51.0,95
+76,76,['1979'],Österreichische Volkspartei,ÖVP,1981739,41.9, 77
+77,77,['1979'],Freiheitliche Partei Österreichs,FPÖ,286743,6.1,11
+78,78,['1979'],Kommunistische Partei Österreichs,KPÖ,45280,1.0,-
+79,79,['1979'],Christlich-Soziale-Arbeitsgemeinschaft,CSA,2263,0.0,-
+80,80,['1983'],Sozialistische Partei Österreichs,SPÖ,2312529,47.6,90
+81,81,['1983'],Österreichische Volkspartei,ÖVP,2097808,43.2,81
+82,82,['1983'],Freiheitliche Partei Österreichs,FPÖ,241789,5.0,12
+83,83,['1983'],Kommunistische Partei Österreichs,KPÖ,31912,0.7,-
+84,84,['1983'],Vereinte Grüne Österreichs - Liste Tollmann,VGÖ,93798,2.0,-
+85,85,['1983'],Alternative Liste Österreich,ALÖ,65816,1.4,-
+86,86,['1983'],Österreich-Partei,ÖP,5851,0.1,-
+87,87,['1983'],Ausländer-Halt-Bewegung,AUS,3914,0.0,-
+88,88,['1986'],Sozialistische Partei Österreichs,SPÖ,2092024,43.1,80
+89,89,['1986'],Österreichische Volkspartei,ÖVP,2003663,41.3,77
+90,90,['1986'],Freiheitliche Partei Österreichs,FPÖ,472205,9.7,18
+91,91,['1986'],Kommunistische Partei Österreichs,KPÖ,35104,0.7,-
+92,92,['1986'],Die Grüne Alternative - Liste Freda Meissner-Blau,GRÜNE,234028,4.8,8
+93,93,['1986'],Die Grünalternativen - Demokratische Liste,GAL,6005,0.1,-
+94,94,['1986'],Kärntner Grüne - VGÖ - VÖGA - Unabhängige Gemeinderäte, ,1059,0.0,-
+95,95,['1986'],"Aktionsliste ""Mir reicht`s!""",MIR,8100,0.2,-
+96,96,['1990'],Sozialistische Partei Österreichs,SPÖ,2012787,42.8,80
+97,97,['1990'],Österreichische Volkspartei,ÖVP,1508600,32.1,60
+98,98,['1990'],Freiheitliche Partei Österreichs,FPÖ,782648,16.6,33
+99,99,['1990'],Die Grüne Alternative - Grüne im Parlament, ,225084,4.8,10
+100,100,['1990'],Vereinte Grüne Österreichs/Das Umwelt-Bürgerforum,VGÖ,92277,2.0,-
+101,101,['1990'],Kommunistische Partei Österreichs,KPÖ,25682,0.6,-
+102,102,['1990'],Verband der Sozialversicherten,VDS,35833,0.8,-
+103,103,['1990'],Christliche-Wähler-Gemeinschaft,CWG,9263,0.2,-
+104,104,['1990'],Christdemokratische Partei,CDP,6194,0.1,-
+105,105,['1990'],Wahlplattform der Grauen Österreichs,WGÖ,3996,0.1,-
+106,106,['1990'],Fritz Georg, ,2530,0.1,-
+107,107,['1994'],Sozialistische Partei Österreichs,SPÖ,1617804,34.9,65
+108,108,['1994'],Österreichische Volkspartei,ÖVP,1281846,27.7,52
+109,109,['1994'],Freiheitliche Partei Österreichs,FPÖ,1042332,22.5,42
+110,110,['1994'],Die Grünen - Die Grüne Alternative,GRÜNE,338538,7.3,13
+111,111,['1994'],Liberales Forum - Heide Schmidt,LIF,276580,6.0,11
+112,112,['1994'],Vereinte Grüne Österreichs - Liste Adi Pinter,VGÖ,5776,0.1,-
+113,113,['1994'],Kommunistische Partei Österreichs,KPÖ,11919,0.3,-
+114,114,['1994'],Bürgerliche Grüne Österreichs Freie Demokraten - Die Liberalen Verband der Sozialversicherten Bürgerlisten und Unabhängige,BGÖ,2504,0.1,-
+115,115,['1994'],Nein - Bürgerinitiative gegen den Verkauf Österreichs,NEIN,41492,0.9,-
+116,116,['1994'],Christliche - Wähler - Gemeinschaft,CWG,9051,0.2,-
+117,117,['1994'],Österreichische Naturgesetz - Partei,ÖNP,4209,0.1,-
+118,118,['1994'],Fritz Georg, ,482,0.0,-
+119,119,['1994'],Die Beste Partei,DBP,581,0.0, 
+120,120,['1995'],Sozialistische Partei Österreichs,SPÖ,1843679,38.1,71
+121,121,['1995'],Österreichische Volkspartei,ÖVP,1370497,28.3,53
+122,122,['1995'],Freiheitliche Partei Österreichs,FPÖ,1060175,21.9,40
+123,123,['1995'],Die Grünen - Die Grüne Alternative,GRÜNE,233232,4.8,9
+124,124,['1995'],Liberales Forum - Heide Schmidt,LIF,267078,5.5,10
+125,125,['1995'],Bürgerinitiative Nein zur EU - Austritt jetzt,NEIN,53184,1.1,-
+126,126,['1995'],Kommunistische Partei Österreichs,KPÖ,13939,0.3,-
+127,127,['1995'],Österreichische Naturgesetz - Partei,ÖNP,1634,0.0,-
+128,128,['1995'],Die Beste Partei - Reinhard Eberhart,DBP,830,0.0,-
+129,129,"['1995', '1996']",Sozialistische Partei Österreichs,SPÖ,1843474,38.1,71
+130,130,"['1995', '1996']",Österreichische Volkspartei,ÖVP,1370510,28.3,52
+131,131,"['1995', '1996']",Freiheitliche Partei Österreichs,FPÖ,1060377,22.0,41
+132,132,"['1995', '1996']",Die Grünen - Die Grüne Alternative,GRÜNE,233208,4.8,9
+133,133,"['1995', '1996']",Liberales Forum - Heide Schmidt,LIF,267026,5.5,10
+134,134,"['1995', '1996']",Bürgerinitiative Nein zur EU - Austritt jetzt,NEIN,53176,1.1,-
+135,135,"['1995', '1996']",Kommunistische Partei Österreichs,KPÖ,13938,0.3,-
+136,136,"['1995', '1996']",Österreichische Naturgesetz - Partei,ÖNP,1634,0.0,-
+137,137,"['1995', '1996']",Die Beste Partei - Reinhard Eberhart,DBP,830,0.0,-
+138,0,1945,Sozialistische Partei Österreich,SPö,120,30,19.0
+139,1,['1999'],Sozialdemokratische Partei Österreichs,SPÖ,1532448,33.15%,
+140,2,['1999'],Österreichische Volkspartei,ÖVP,1243672,26.91%,
+141,3,['1999'],Freiheitliche Partei Österreichs,FPÖ,1244087,26.91%,
+142,4,['1999'],Liberales Forum - Heide Schmidt,LIF,168612,3.65%,
+143,5,['1999'],Die Grünen - Die Grüne Alternative,GRÜNE,342260,7.40%,
+144,6,['1999'],Kommunistische Partei Österreichs,KPÖ,22016,0.48%,
+145,7,['1999'],Die Unabhängigen - Liste Lugner,DU,46943,1.02%,
+146,8,['1999'],Nein zu NATO und EU Neutrales Österreich Bürgerinitiative,NEIN,19286,0.42%,
+147,9,['1999'],Christliche Wählergemeinschaft,CWG,3030,0.07%,
+148,10,['2002'],Sozialdemokratische Partei Österreichs,SPÖ,1532448,33.15%,
+149,11,['2002'],Österreichische Volkspartei,ÖVP,1243672,26.91%,
+150,12,['2002'],Freiheitliche Partei Österreichs,FPÖ,1244087,26.91%,
+151,13,['2002'],Liberales Forum - Heide Schmidt,LIF,168612,3.65%,
+152,14,['2002'],Die Grünen - Die Grüne Alternative,GRÜNE,342260,7.40%,
+153,15,['2002'],Kommunistische Partei Österreichs,KPÖ,22016,0.48%,
+154,16,['2002'],Die Unabhängigen - Liste Lugner,DU,46943,1.02%,
+155,17,['2002'],Nein zu NATO und EU Neutrales Österreich Bürgerinitiative,NEIN,19286,0.42%,
+156,18,['2002'],Christliche Wählergemeinschaft,CWG,3030,0.07%,
+157,19,['2002'],Sozialdemokratische Partei Österreichs,SPÖ,1792499,36.51%,
+158,20,['2002'],Freiheitliche Partei Österreichs,FPÖ,491328,10.01%,
+159,21,['2002'],Österreichische Volkspartei,ÖVP,2076833,42.30%,
+160,22,['2002'],Die Grünen - Die Grüne Alternative,GRÜNE,464980,9.47%,
+161,23,['2002'],Kommunistische Partei Österreichs,KPÖ,27568,0.56%,
+162,24,['2002'],Die Liberalen (Liberales Forum),LIF,48083,0.98%,
+163,25,['2002'],Die Demokraten, ,2439,0.05%,
+164,26,['2002'],Christliche Wählergemeinschaft,CWG,2009,0.04%,
+165,27,['2002'],Sozialistische Links Partei,SLP,3906,0.08%,
+166,28,['2006'],Sozialdemokratische Partei Österreichs,SPÖ,1532448,33.15%,
+167,29,['2006'],Österreichische Volkspartei,ÖVP,1243672,26.91%,
+168,30,['2006'],Freiheitliche Partei Österreichs,FPÖ,1244087,26.91%,
+169,31,['2006'],Liberales Forum - Heide Schmidt,LIF,168612,3.65%,
+170,32,['2006'],Die Grünen - Die Grüne Alternative,GRÜNE,342260,7.40%,
+171,33,['2006'],Kommunistische Partei Österreichs,KPÖ,22016,0.48%,
+172,34,['2006'],Die Unabhängigen - Liste Lugner,DU,46943,1.02%,
+173,35,['2006'],Nein zu NATO und EU Neutrales Österreich Bürgerinitiative,NEIN,19286,0.42%,
+174,36,['2006'],Christliche Wählergemeinschaft,CWG,3030,0.07%,
+175,37,['2006'],Sozialdemokratische Partei Österreichs,SPÖ,1792499,36.51%,
+176,38,['2006'],Freiheitliche Partei Österreichs,FPÖ,491328,10.01%,
+177,39,['2006'],Österreichische Volkspartei,ÖVP,2076833,42.30%,
+178,40,['2006'],Die Grünen - Die Grüne Alternative,GRÜNE,464980,9.47%,
+179,41,['2006'],Kommunistische Partei Österreichs,KPÖ,27568,0.56%,
+180,42,['2006'],Die Liberalen (Liberales Forum),LIF,48083,0.98%,
+181,43,['2006'],Die Demokraten, ,2439,0.05%,
+182,44,['2006'],Christliche Wählergemeinschaft,CWG,2009,0.04%,
+183,45,['2006'],Sozialistische Links Partei,SLP,3906,0.08%,
+184,46,['2006'],Österreichische Volkspartei,ÖVP,1616493,34.33%,
+185,47,['2006'],Sozialdemokratische Partei Österreichs,SPÖ,1663986,35.34%,
+186,48,['2006'],Freiheitliche Partei Österreichs,FPÖ,519598,11.04%,
+187,49,['2006'],Die Grünen - Die Grüne Alternative,GRÜNE,520130,11.05%,
+188,50,['2006'],Die Freiheitlichen - Liste Westenthaler - BZÖ,BZÖ,193539,4.11%,
+189,51,['2006'],Kommunistische Partei Österreichs,KPÖ,47578,1.01%,
+190,52,['2006'],"Liste Dr. Martin - Für Demokratie, Kontrolle, Gerechtigkeit",MATIN,131688,2.80%,
+191,53,['2006'],EU-Austritt - Neutrales Freies Österreich,NFÖ,10594,0.23%,
+192,54,['2006'],IVE INITIATIVE2000,IVE,592,0.01%,
+193,55,['2006'],Liste Stark,STARK,312,0.01%,
+194,56,['2006'],"Sicher-Absolut-Unabhängig, Franz Radinger",SAU,1514,0.03%,
+195,57,['2006'],"Sozialistische LinksPartei, Liste gegen Kapitalismus und Rassismus",SLP,2257,0.05%,
+196,58,['2008'],Sozialdemokratische Partei Österreichs,SPÖ,1532448,33.15%,
+197,59,['2008'],Österreichische Volkspartei,ÖVP,1243672,26.91%,
+198,60,['2008'],Freiheitliche Partei Österreichs,FPÖ,1244087,26.91%,
+199,61,['2008'],Liberales Forum - Heide Schmidt,LIF,168612,3.65%,
+200,62,['2008'],Die Grünen - Die Grüne Alternative,GRÜNE,342260,7.40%,
+201,63,['2008'],Kommunistische Partei Österreichs,KPÖ,22016,0.48%,
+202,64,['2008'],Die Unabhängigen - Liste Lugner,DU,46943,1.02%,
+203,65,['2008'],Nein zu NATO und EU Neutrales Österreich Bürgerinitiative,NEIN,19286,0.42%,
+204,66,['2008'],Christliche Wählergemeinschaft,CWG,3030,0.07%,
+205,67,['2008'],Sozialdemokratische Partei Österreichs,SPÖ,1792499,36.51%,
+206,68,['2008'],Freiheitliche Partei Österreichs,FPÖ,491328,10.01%,
+207,69,['2008'],Österreichische Volkspartei,ÖVP,2076833,42.30%,
+208,70,['2008'],Die Grünen - Die Grüne Alternative,GRÜNE,464980,9.47%,
+209,71,['2008'],Kommunistische Partei Österreichs,KPÖ,27568,0.56%,
+210,72,['2008'],Die Liberalen (Liberales Forum),LIF,48083,0.98%,
+211,73,['2008'],Die Demokraten, ,2439,0.05%,
+212,74,['2008'],Christliche Wählergemeinschaft,CWG,2009,0.04%,
+213,75,['2008'],Sozialistische Links Partei,SLP,3906,0.08%,
+214,76,['2008'],Österreichische Volkspartei,ÖVP,1616493,34.33%,
+215,77,['2008'],Sozialdemokratische Partei Österreichs,SPÖ,1663986,35.34%,
+216,78,['2008'],Freiheitliche Partei Österreichs,FPÖ,519598,11.04%,
+217,79,['2008'],Die Grünen - Die Grüne Alternative,GRÜNE,520130,11.05%,
+218,80,['2008'],Die Freiheitlichen - Liste Westenthaler - BZÖ,BZÖ,193539,4.11%,
+219,81,['2008'],Kommunistische Partei Österreichs,KPÖ,47578,1.01%,
+220,82,['2008'],"Liste Dr. Martin - Für Demokratie, Kontrolle, Gerechtigkeit",MATIN,131688,2.80%,
+221,83,['2008'],EU-Austritt - Neutrales Freies Österreich,NFÖ,10594,0.23%,
+222,84,['2008'],IVE INITIATIVE2000,IVE,592,0.01%,
+223,85,['2008'],Liste Stark,STARK,312,0.01%,
+224,86,['2008'],"Sicher-Absolut-Unabhängig, Franz Radinger",SAU,1514,0.03%,
+225,87,['2008'],"Sozialistische LinksPartei, Liste gegen Kapitalismus und Rassismus",SLP,2257,0.05%,
+226,88,['2008'],Sozialdemokratische Partei Österreichs,SPÖ,1430206,29.26%,
+227,89,['2008'],Österreichische Volkspartei,ÖVP,1269656,25.98%,
+228,90,['2008'],Die Grünen - Die Grüne Alternative,GRÜNE,509936,10.43%,
+229,91,['2008'],Freiheitliche Partei Österreichs,FPÖ,857029,17.54%,
+230,92,['2008'],BZÖ - Liste Jörg Haider,BZÖ,522933,10.70%,
+231,93,['2008'],Bürgerforum Österreich Liste Fritz Dinkhauser,FRITZ,86194,1.76%,
+232,94,['2008'],Die Christen,DC,31080,0.64%,
+233,95,['2008'],Kommunistische Partei Österreichs,KPÖ,37362,0.76%,
+234,96,['2008'],Liberales Forum,LIF,102249,2.09%,
+235,97,['2008'],Unabhängige Bürgerinitiative Rettet Österreich,RETTÖ,35718,0.73%,
+236,98,['2008'],Die Linke,LINKE,349,0.01%,
+237,99,['2008'],Dipl.Ing. Karlheinz H. Klement, ,347,0.01%,
+238,100,['2008'],Linke,LINKE,1789,0.04%,
+239,101,['2008'],Liste Stark,STARK,237,0.00%,
+240,102,['2008'],Tierrechtspartei earth-human-animals-nature,TRP,2224,0.05%,
+241,103,['2013'],Sozialdemokratische Partei Österreichs,SPÖ,1532448,33.15%,
+242,104,['2013'],Österreichische Volkspartei,ÖVP,1243672,26.91%,
+243,105,['2013'],Freiheitliche Partei Österreichs,FPÖ,1244087,26.91%,
+244,106,['2013'],Liberales Forum - Heide Schmidt,LIF,168612,3.65%,
+245,107,['2013'],Die Grünen - Die Grüne Alternative,GRÜNE,342260,7.40%,
+246,108,['2013'],Kommunistische Partei Österreichs,KPÖ,22016,0.48%,
+247,109,['2013'],Die Unabhängigen - Liste Lugner,DU,46943,1.02%,
+248,110,['2013'],Nein zu NATO und EU Neutrales Österreich Bürgerinitiative,NEIN,19286,0.42%,
+249,111,['2013'],Christliche Wählergemeinschaft,CWG,3030,0.07%,
+250,112,['2013'],Sozialdemokratische Partei Österreichs,SPÖ,1792499,36.51%,
+251,113,['2013'],Freiheitliche Partei Österreichs,FPÖ,491328,10.01%,
+252,114,['2013'],Österreichische Volkspartei,ÖVP,2076833,42.30%,
+253,115,['2013'],Die Grünen - Die Grüne Alternative,GRÜNE,464980,9.47%,
+254,116,['2013'],Kommunistische Partei Österreichs,KPÖ,27568,0.56%,
+255,117,['2013'],Die Liberalen (Liberales Forum),LIF,48083,0.98%,
+256,118,['2013'],Die Demokraten, ,2439,0.05%,
+257,119,['2013'],Christliche Wählergemeinschaft,CWG,2009,0.04%,
+258,120,['2013'],Sozialistische Links Partei,SLP,3906,0.08%,
+259,121,['2013'],Österreichische Volkspartei,ÖVP,1616493,34.33%,
+260,122,['2013'],Sozialdemokratische Partei Österreichs,SPÖ,1663986,35.34%,
+261,123,['2013'],Freiheitliche Partei Österreichs,FPÖ,519598,11.04%,
+262,124,['2013'],Die Grünen - Die Grüne Alternative,GRÜNE,520130,11.05%,
+263,125,['2013'],Die Freiheitlichen - Liste Westenthaler - BZÖ,BZÖ,193539,4.11%,
+264,126,['2013'],Kommunistische Partei Österreichs,KPÖ,47578,1.01%,
+265,127,['2013'],"Liste Dr. Martin - Für Demokratie, Kontrolle, Gerechtigkeit",MATIN,131688,2.80%,
+266,128,['2013'],EU-Austritt - Neutrales Freies Österreich,NFÖ,10594,0.23%,
+267,129,['2013'],IVE INITIATIVE2000,IVE,592,0.01%,
+268,130,['2013'],Liste Stark,STARK,312,0.01%,
+269,131,['2013'],"Sicher-Absolut-Unabhängig, Franz Radinger",SAU,1514,0.03%,
+270,132,['2013'],"Sozialistische LinksPartei, Liste gegen Kapitalismus und Rassismus",SLP,2257,0.05%,
+271,133,['2013'],Sozialdemokratische Partei Österreichs,SPÖ,1430206,29.26%,
+272,134,['2013'],Österreichische Volkspartei,ÖVP,1269656,25.98%,
+273,135,['2013'],Die Grünen - Die Grüne Alternative,GRÜNE,509936,10.43%,
+274,136,['2013'],Freiheitliche Partei Österreichs,FPÖ,857029,17.54%,
+275,137,['2013'],BZÖ - Liste Jörg Haider,BZÖ,522933,10.70%,
+276,138,['2013'],Bürgerforum Österreich Liste Fritz Dinkhauser,FRITZ,86194,1.76%,
+277,139,['2013'],Die Christen,DC,31080,0.64%,
+278,140,['2013'],Kommunistische Partei Österreichs,KPÖ,37362,0.76%,
+279,141,['2013'],Liberales Forum,LIF,102249,2.09%,
+280,142,['2013'],Unabhängige Bürgerinitiative Rettet Österreich,RETTÖ,35718,0.73%,
+281,143,['2013'],Die Linke,LINKE,349,0.01%,
+282,144,['2013'],Dipl.Ing. Karlheinz H. Klement, ,347,0.01%,
+283,145,['2013'],Linke,LINKE,1789,0.04%,
+284,146,['2013'],Liste Stark,STARK,237,0.00%,
+285,147,['2013'],Tierrechtspartei earth-human-animals-nature,TRP,2224,0.05%,
+286,148,['2013'],Sozialdemokratische Partei Österreichs,SPÖ,1258605,26.82%,
+287,149,['2013'],Österreichische Volkspartei,ÖVP,1125876,23.99%,
+288,150,['2013'],Freiheitliche Partei Österreichs,FPÖ,962313,20.51%,
+289,151,['2013'],BZÖ - Liste Josef Bucher,BZÖ,165746,3.53%,
+290,152,['2013'],Die Grünen - Die Grüne Alternative,GRÜNE,582657,12.42%,
+291,153,['2013'],Team Frank Stronach,FRANK,268679,5.73%,
+292,154,['2013'],NEOS Das Neue Österreich und Liberales Forum,NEOS,232946,4.96%,
+293,155,['2013'],Kommunistische Partei Österreichs,KPÖ,48175,1.03%,
+294,156,['2013'],Piratenpartei Österreichs,PIRAT,36265,0.77%,
+295,157,['2013'],Christliche Partei Österreichs,CPÖ,6647,0.14%,
+296,158,['2013'],Der Wandel,WANDL,3051,0.07%,
+297,159,['2013'],Männerpartei,M ,490,0.01%,
+298,160,['2013'],EU-Austrittspartei,EUAUS,510,0.01%,
+299,161,['2013'],Sozialistische LinksPartei,SLP,947,0.02%,
+300,162,['2017'],Sozialdemokratische Partei Österreichs,SPÖ,1532448,33.15%,
+301,163,['2017'],Österreichische Volkspartei,ÖVP,1243672,26.91%,
+302,164,['2017'],Freiheitliche Partei Österreichs,FPÖ,1244087,26.91%,
+303,165,['2017'],Liberales Forum - Heide Schmidt,LIF,168612,3.65%,
+304,166,['2017'],Die Grünen - Die Grüne Alternative,GRÜNE,342260,7.40%,
+305,167,['2017'],Kommunistische Partei Österreichs,KPÖ,22016,0.48%,
+306,168,['2017'],Die Unabhängigen - Liste Lugner,DU,46943,1.02%,
+307,169,['2017'],Nein zu NATO und EU Neutrales Österreich Bürgerinitiative,NEIN,19286,0.42%,
+308,170,['2017'],Christliche Wählergemeinschaft,CWG,3030,0.07%,
+309,171,['2017'],Sozialdemokratische Partei Österreichs,SPÖ,1792499,36.51%,
+310,172,['2017'],Freiheitliche Partei Österreichs,FPÖ,491328,10.01%,
+311,173,['2017'],Österreichische Volkspartei,ÖVP,2076833,42.30%,
+312,174,['2017'],Die Grünen - Die Grüne Alternative,GRÜNE,464980,9.47%,
+313,175,['2017'],Kommunistische Partei Österreichs,KPÖ,27568,0.56%,
+314,176,['2017'],Die Liberalen (Liberales Forum),LIF,48083,0.98%,
+315,177,['2017'],Die Demokraten, ,2439,0.05%,
+316,178,['2017'],Christliche Wählergemeinschaft,CWG,2009,0.04%,
+317,179,['2017'],Sozialistische Links Partei,SLP,3906,0.08%,
+318,180,['2017'],Österreichische Volkspartei,ÖVP,1616493,34.33%,
+319,181,['2017'],Sozialdemokratische Partei Österreichs,SPÖ,1663986,35.34%,
+320,182,['2017'],Freiheitliche Partei Österreichs,FPÖ,519598,11.04%,
+321,183,['2017'],Die Grünen - Die Grüne Alternative,GRÜNE,520130,11.05%,
+322,184,['2017'],Die Freiheitlichen - Liste Westenthaler - BZÖ,BZÖ,193539,4.11%,
+323,185,['2017'],Kommunistische Partei Österreichs,KPÖ,47578,1.01%,
+324,186,['2017'],"Liste Dr. Martin - Für Demokratie, Kontrolle, Gerechtigkeit",MATIN,131688,2.80%,
+325,187,['2017'],EU-Austritt - Neutrales Freies Österreich,NFÖ,10594,0.23%,
+326,188,['2017'],IVE INITIATIVE2000,IVE,592,0.01%,
+327,189,['2017'],Liste Stark,STARK,312,0.01%,
+328,190,['2017'],"Sicher-Absolut-Unabhängig, Franz Radinger",SAU,1514,0.03%,
+329,191,['2017'],"Sozialistische LinksPartei, Liste gegen Kapitalismus und Rassismus",SLP,2257,0.05%,
+330,192,['2017'],Sozialdemokratische Partei Österreichs,SPÖ,1430206,29.26%,
+331,193,['2017'],Österreichische Volkspartei,ÖVP,1269656,25.98%,
+332,194,['2017'],Die Grünen - Die Grüne Alternative,GRÜNE,509936,10.43%,
+333,195,['2017'],Freiheitliche Partei Österreichs,FPÖ,857029,17.54%,
+334,196,['2017'],BZÖ - Liste Jörg Haider,BZÖ,522933,10.70%,
+335,197,['2017'],Bürgerforum Österreich Liste Fritz Dinkhauser,FRITZ,86194,1.76%,
+336,198,['2017'],Die Christen,DC,31080,0.64%,
+337,199,['2017'],Kommunistische Partei Österreichs,KPÖ,37362,0.76%,
+338,200,['2017'],Liberales Forum,LIF,102249,2.09%,
+339,201,['2017'],Unabhängige Bürgerinitiative Rettet Österreich,RETTÖ,35718,0.73%,
+340,202,['2017'],Die Linke,LINKE,349,0.01%,
+341,203,['2017'],Dipl.Ing. Karlheinz H. Klement, ,347,0.01%,
+342,204,['2017'],Linke,LINKE,1789,0.04%,
+343,205,['2017'],Liste Stark,STARK,237,0.00%,
+344,206,['2017'],Tierrechtspartei earth-human-animals-nature,TRP,2224,0.05%,
+345,207,['2017'],Sozialdemokratische Partei Österreichs,SPÖ,1258605,26.82%,
+346,208,['2017'],Österreichische Volkspartei,ÖVP,1125876,23.99%,
+347,209,['2017'],Freiheitliche Partei Österreichs,FPÖ,962313,20.51%,
+348,210,['2017'],BZÖ - Liste Josef Bucher,BZÖ,165746,3.53%,
+349,211,['2017'],Die Grünen - Die Grüne Alternative,GRÜNE,582657,12.42%,
+350,212,['2017'],Team Frank Stronach,FRANK,268679,5.73%,
+351,213,['2017'],NEOS Das Neue Österreich und Liberales Forum,NEOS,232946,4.96%,
+352,214,['2017'],Kommunistische Partei Österreichs,KPÖ,48175,1.03%,
+353,215,['2017'],Piratenpartei Österreichs,PIRAT,36265,0.77%,
+354,216,['2017'],Christliche Partei Österreichs,CPÖ,6647,0.14%,
+355,217,['2017'],Der Wandel,WANDL,3051,0.07%,
+356,218,['2017'],Männerpartei,M ,490,0.01%,
+357,219,['2017'],EU-Austrittspartei,EUAUS,510,0.01%,
+358,220,['2017'],Sozialistische LinksPartei,SLP,947,0.02%,
+359,221,['2017'],Sozialdemokratische Partei Österreichs ,SPÖ,1361746,26.86%,
+360,222,['2017'],Liste Sebastian Kurz - die neue Volkspartei ,ÖVP,1595526,31.47%,
+361,223,['2017'],Freiheitliche Partei Österreichs ,FPÖ,1316442,25.97%,
+362,224,['2017'],Die Grünen - Die Grüne Alternative ,GRÜNE,192638,3.80%,
+363,225,['2017'],"NEOS - Das Neue Österreich gemeinsam mit Irmgard Griss, Bürgerinnen und Bürger für Freiheit und Verantwortung",NEOS,268518,5.30%,
+364,226,['2017'],Liste Peter Pilz ,PILZ,223543,4.41%,
+365,227,['2017'],Liste Roland Düringer - Meine Stimme GILT ,GILT,48234,0.95%,
+366,228,['2017'],Freie Liste Österreich & FPS Liste Dr. Karl Schnell,FLÖ,8889,0.18%,
+367,229,['2017'],Kommunistische Partei Österreichs und Plattform Plus - offene Liste,KPÖ,39689,0.78%,
+368,230,['2017'],Die Weissen - Das Recht geht vom Volk aus. Wir alle entscheiden in Österreich. Die Volksbewegung ,WEIẞE,9167,0.18%,
+369,231,['2017'],Sozialistische LinksPartei ,SLP,713,0.01%,
+370,232,['2017'],"Für Österreich, Zuwanderungsstopp, Grenzschutz, Neutralität, EU-Austritt ",EUAUS,693,0.01%,
+371,233,['2017'],Männerpartei - für ein faires Miteinander ,M,221,0.00%,
+372,234,['2017'],Christliche Partei Österreichs ,CPÖ,425,0.01%,
+373,235,['2017'],NBZ - Neue Bewegung für die Zukunft ,NBZ,2724,0.05%,
+374,236,['2017'],Obdachlose in der Politik ,ODP,761,0.02%,
+375,237,['2019'],Sozialdemokratische Partei Österreichs,SPÖ,1532448,33.15%,
+376,238,['2019'],Österreichische Volkspartei,ÖVP,1243672,26.91%,
+377,239,['2019'],Freiheitliche Partei Österreichs,FPÖ,1244087,26.91%,
+378,240,['2019'],Liberales Forum - Heide Schmidt,LIF,168612,3.65%,
+379,241,['2019'],Die Grünen - Die Grüne Alternative,GRÜNE,342260,7.40%,
+380,242,['2019'],Kommunistische Partei Österreichs,KPÖ,22016,0.48%,
+381,243,['2019'],Die Unabhängigen - Liste Lugner,DU,46943,1.02%,
+382,244,['2019'],Nein zu NATO und EU Neutrales Österreich Bürgerinitiative,NEIN,19286,0.42%,
+383,245,['2019'],Christliche Wählergemeinschaft,CWG,3030,0.07%,
+384,246,['2019'],Sozialdemokratische Partei Österreichs,SPÖ,1792499,36.51%,
+385,247,['2019'],Freiheitliche Partei Österreichs,FPÖ,491328,10.01%,
+386,248,['2019'],Österreichische Volkspartei,ÖVP,2076833,42.30%,
+387,249,['2019'],Die Grünen - Die Grüne Alternative,GRÜNE,464980,9.47%,
+388,250,['2019'],Kommunistische Partei Österreichs,KPÖ,27568,0.56%,
+389,251,['2019'],Die Liberalen (Liberales Forum),LIF,48083,0.98%,
+390,252,['2019'],Die Demokraten, ,2439,0.05%,
+391,253,['2019'],Christliche Wählergemeinschaft,CWG,2009,0.04%,
+392,254,['2019'],Sozialistische Links Partei,SLP,3906,0.08%,
+393,255,['2019'],Österreichische Volkspartei,ÖVP,1616493,34.33%,
+394,256,['2019'],Sozialdemokratische Partei Österreichs,SPÖ,1663986,35.34%,
+395,257,['2019'],Freiheitliche Partei Österreichs,FPÖ,519598,11.04%,
+396,258,['2019'],Die Grünen - Die Grüne Alternative,GRÜNE,520130,11.05%,
+397,259,['2019'],Die Freiheitlichen - Liste Westenthaler - BZÖ,BZÖ,193539,4.11%,
+398,260,['2019'],Kommunistische Partei Österreichs,KPÖ,47578,1.01%,
+399,261,['2019'],"Liste Dr. Martin - Für Demokratie, Kontrolle, Gerechtigkeit",MATIN,131688,2.80%,
+400,262,['2019'],EU-Austritt - Neutrales Freies Österreich,NFÖ,10594,0.23%,
+401,263,['2019'],IVE INITIATIVE2000,IVE,592,0.01%,
+402,264,['2019'],Liste Stark,STARK,312,0.01%,
+403,265,['2019'],"Sicher-Absolut-Unabhängig, Franz Radinger",SAU,1514,0.03%,
+404,266,['2019'],"Sozialistische LinksPartei, Liste gegen Kapitalismus und Rassismus",SLP,2257,0.05%,
+405,267,['2019'],Sozialdemokratische Partei Österreichs,SPÖ,1430206,29.26%,
+406,268,['2019'],Österreichische Volkspartei,ÖVP,1269656,25.98%,
+407,269,['2019'],Die Grünen - Die Grüne Alternative,GRÜNE,509936,10.43%,
+408,270,['2019'],Freiheitliche Partei Österreichs,FPÖ,857029,17.54%,
+409,271,['2019'],BZÖ - Liste Jörg Haider,BZÖ,522933,10.70%,
+410,272,['2019'],Bürgerforum Österreich Liste Fritz Dinkhauser,FRITZ,86194,1.76%,
+411,273,['2019'],Die Christen,DC,31080,0.64%,
+412,274,['2019'],Kommunistische Partei Österreichs,KPÖ,37362,0.76%,
+413,275,['2019'],Liberales Forum,LIF,102249,2.09%,
+414,276,['2019'],Unabhängige Bürgerinitiative Rettet Österreich,RETTÖ,35718,0.73%,
+415,277,['2019'],Die Linke,LINKE,349,0.01%,
+416,278,['2019'],Dipl.Ing. Karlheinz H. Klement, ,347,0.01%,
+417,279,['2019'],Linke,LINKE,1789,0.04%,
+418,280,['2019'],Liste Stark,STARK,237,0.00%,
+419,281,['2019'],Tierrechtspartei earth-human-animals-nature,TRP,2224,0.05%,
+420,282,['2019'],Sozialdemokratische Partei Österreichs,SPÖ,1258605,26.82%,
+421,283,['2019'],Österreichische Volkspartei,ÖVP,1125876,23.99%,
+422,284,['2019'],Freiheitliche Partei Österreichs,FPÖ,962313,20.51%,
+423,285,['2019'],BZÖ - Liste Josef Bucher,BZÖ,165746,3.53%,
+424,286,['2019'],Die Grünen - Die Grüne Alternative,GRÜNE,582657,12.42%,
+425,287,['2019'],Team Frank Stronach,FRANK,268679,5.73%,
+426,288,['2019'],NEOS Das Neue Österreich und Liberales Forum,NEOS,232946,4.96%,
+427,289,['2019'],Kommunistische Partei Österreichs,KPÖ,48175,1.03%,
+428,290,['2019'],Piratenpartei Österreichs,PIRAT,36265,0.77%,
+429,291,['2019'],Christliche Partei Österreichs,CPÖ,6647,0.14%,
+430,292,['2019'],Der Wandel,WANDL,3051,0.07%,
+431,293,['2019'],Männerpartei,M ,490,0.01%,
+432,294,['2019'],EU-Austrittspartei,EUAUS,510,0.01%,
+433,295,['2019'],Sozialistische LinksPartei,SLP,947,0.02%,
+434,296,['2019'],Sozialdemokratische Partei Österreichs ,SPÖ,1361746,26.86%,
+435,297,['2019'],Liste Sebastian Kurz - die neue Volkspartei ,ÖVP,1595526,31.47%,
+436,298,['2019'],Freiheitliche Partei Österreichs ,FPÖ,1316442,25.97%,
+437,299,['2019'],Die Grünen - Die Grüne Alternative ,GRÜNE,192638,3.80%,
+438,300,['2019'],"NEOS - Das Neue Österreich gemeinsam mit Irmgard Griss, Bürgerinnen und Bürger für Freiheit und Verantwortung",NEOS,268518,5.30%,
+439,301,['2019'],Liste Peter Pilz ,PILZ,223543,4.41%,
+440,302,['2019'],Liste Roland Düringer - Meine Stimme GILT ,GILT,48234,0.95%,
+441,303,['2019'],Freie Liste Österreich & FPS Liste Dr. Karl Schnell,FLÖ,8889,0.18%,
+442,304,['2019'],Kommunistische Partei Österreichs und Plattform Plus - offene Liste,KPÖ,39689,0.78%,
+443,305,['2019'],Die Weissen - Das Recht geht vom Volk aus. Wir alle entscheiden in Österreich. Die Volksbewegung ,WEIẞE,9167,0.18%,
+444,306,['2019'],Sozialistische LinksPartei ,SLP,713,0.01%,
+445,307,['2019'],"Für Österreich, Zuwanderungsstopp, Grenzschutz, Neutralität, EU-Austritt ",EUAUS,693,0.01%,
+446,308,['2019'],Männerpartei - für ein faires Miteinander ,M,221,0.00%,
+447,309,['2019'],Christliche Partei Österreichs ,CPÖ,425,0.01%,
+448,310,['2019'],NBZ - Neue Bewegung für die Zukunft ,NBZ,2724,0.05%,
+449,311,['2019'],Obdachlose in der Politik ,ODP,761,0.02%,
+450,312,['2019'],Liste Sebastian Kurz – die neue Volkspartei,ÖVP,1789417,37.5%,
+451,313,['2019'],Sozialdemokratische Partei Österreichs,SPÖ,1011868,21.2%,
+452,314,['2019'],Freiheitliche Partei Österreichs,FPÖ,772666,16.2%,
+453,315,['2019'],NEOS – Das Neue Österreich,NEOS,387124,8.1%,
+454,316,['2019'],JETZT – Liste Pilz,JETZT,89169,1.9%,
+455,317,['2019'],"Alternative Listen, KPÖ Plus, Linke und Unabhängige",KPÖ,32736,0.7%,
+456,318,['2019'],Die Grünen – Die Grüne Alternative,GRÜNE,664055,13.9%,
+457,319,['2019'],"Wandel – Aufbruch in ein gemeinwohlorientiertes Morgen mit guter Arbeit, leistbarem Wohnen und radikaler Klimapolitik. Es gibt viel zu gewinnen.",WANDL,22168,0.5%,
+458,320,['2019'],Christliche Partei Österreichs,CPÖ,260,0.0%,
+459,321,['2019'],Allianz der Patrioten,BZÖ,760,0.0%,
+460,322,['2019'],Sozialistische LinksPartei – SLP,SLP,310,0.0%,
+461,323,['2019'],Jede Stimme GILT: Bürgerparlamente & Expertenregierung,GILT,1767,0.0%,
+462,324,['2019'],BPÖ – Bierpartei Österreich,BIER,4946,0.1%,
