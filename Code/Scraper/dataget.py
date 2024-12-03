@@ -1,3 +1,8 @@
+"""
+Lukas Waldhofer - 2024
+Script to extract election results from the website bmi.gv.at tagetting properly formated html tags
+"""
+
 from bs4 import BeautifulSoup
 import requests
 import re
